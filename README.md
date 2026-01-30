@@ -1,4 +1,4 @@
-# 🚗 Simulación de Seguridad Vial: Influencia de la Adherencia y el Factor Humano
+# Simulación de Seguridad Vial: Influencia de la Adherencia y el Factor Humano
 
 Este proyecto desarrolla un modelo físico-matemático para analizar la probabilidad y gravedad de los alcances vehiculares en distintos escenarios viales (Autovía vs. Zona Urbana). El objetivo principal es evaluar la eficacia de la inversión en infraestructuras de alta adherencia según la velocidad de la vía.
 
